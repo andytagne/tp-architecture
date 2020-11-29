@@ -13,7 +13,7 @@ Un billet d'avion est consituté:
 - D'un code destination
 - D'un prix (en Euros)
 
-__CDG-JFK 400_ represente donc un billet d'avion au départ de Paris et à destination de New York à 400 euros.
+__CDG-JFK 400__ represente donc un billet d'avion au départ de Paris et à destination de New York à 400 euros.
 
 ## Etape 0
 
