@@ -20,10 +20,10 @@ __CDG-JFK 400__ represente donc un billet d'avion au départ de Paris et à dest
 - Forker ce [repository](https://github.com/ESIEA-Distributed-Architecture/tp-architecture)
 - Ajouter les membres de votre groupe a ce repository pour les besoins de commit
 - Choisissez un nom de groupe
-- Creer une branche qui porte le nom suivant : {majeure}-{nom-de-votre-groupe}
+- Creer une branche qui porte le nom suivant : {spe-du-chef-equipe}-{nom-de-votre-groupe}
 - __Creer un dossier qui porte le même nom, tout ce que vous produisez sera sous ce dossier__
-- Creer le fichier MEMBERS.md, a l'interieur de ce fichier, rentrer le prénom et nom de chacune des personnes de votre groupe
-- Votre projet devra se trouver dans le dossier ```projet``` a l'interieur de ce [repository](https://github.com/ESIEA-Distributed-Architecture/tp-architecture)
+- Creer le fichier MEMBERS.md, a l'interieur de ce fichier, rentrerz le prénom, le nom et la promo de chacune des personnes de votre groupe.
+- Votre projet devra se trouver dans le dossier ``` {spe-du-chef-equipe}-{nom-de-votre-groupe}/projet``` a l'interieur de ce [repository](https://github.com/ESIEA-Distributed-Architecture/tp-architecture)
 - Faites une Pull Request entre votre branche ```{code-promo}-{nom-de-votre-groupe}``` et la branche ```main``` de ce [repository](https://github.com/ESIEA-Distributed-Architecture/tp-architecture)
 
 ## Etape 1
